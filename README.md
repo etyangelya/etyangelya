@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ...computer forensics
 - 💞️ I’m looking to collaborate on ...software devlopement
 - 📫 How to reach me ...
+- gmail- etyangelya@gmail.com
 
 <!---
 etyangelya/etyangelya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
