@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @etyangelya
-- 👀 I’m interested in ...cyber security
-- 🌱 I’m currently learning ...computer forensics
-- 💞️ I’m looking to collaborate on ...software devlopement
-- 📫 How to reach me ...
+
 - gmail- etyangelya@gmail.com
 
 <!---
